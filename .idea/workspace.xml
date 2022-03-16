@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f0686d7-eed6-4959-bc1f-3c6587e12706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kojiicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games.html" beforeDir="false" afterPath="$PROJECT_DIR$/games.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1soAUwtIkDN3127xN3qc6Mgi4yl" />
   <component name="ProjectViewState">
@@ -57,7 +57,9 @@
       <workItem from="1621607333711" duration="2112000" />
       <workItem from="1623727025657" duration="1771000" />
       <workItem from="1624726201196" duration="20000" />
-      <workItem from="1645570600238" duration="223000" />
+      <workItem from="1645570600238" duration="436000" />
+      <workItem from="1645663913729" duration="265000" />
+      <workItem from="1647407867170" duration="176000" />
     </task>
     <servers />
   </component>
